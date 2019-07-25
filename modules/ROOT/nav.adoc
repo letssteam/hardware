@@ -1,4 +1,1 @@
 .xref:index.adoc[In-module page]
-* xref:a-page-in-this-module.adoc[Another in-module page]
-** xref:another-page.adoc#and-fragment[An in-module page deep link]
-* xref:topic/page.adoc[In-module page in a topic folder]
