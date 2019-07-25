@@ -4,3 +4,5 @@ version: 'latest'
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
+- modules/hardware-technical-specification/nav.adoc
+- modules/hardware-requirement/nav.adoc

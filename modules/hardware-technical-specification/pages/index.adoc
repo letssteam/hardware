@@ -1,0 +1,2 @@
+= Welcome to Component Hardware Technical Specification !
+This is the automatic start page for version *{page-component-version}* of Component Hardware Technical Specification
