@@ -1,1 +1,1 @@
-.xref:index.adoc[In-module page]
+.xref:index.adoc[Hardware Module]
