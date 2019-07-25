@@ -1,0 +1,5 @@
+name: hardware
+title: Hardware documentation
+version: 'latest'
+nav:
+- modules/ROOT/nav.adoc
